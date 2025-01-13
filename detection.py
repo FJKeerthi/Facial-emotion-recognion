@@ -3,13 +3,13 @@ import numpy as np
 from tensorflow.keras.models import load_model
 
 # Load the pre-trained emotion detection model
-model = load_model('model_optimal.h5')  # Replace with your model's file path
+model = load_model('model_optimal.h5') 
 
 # Define emotion labels
 emotion_labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
 
 # Initialize the webcam
-cap = cv2.VideoCapture(0)  # Use 0 for default camera, or change for external cameras
+cap = cv2.VideoCapture(0)
 
 # Load the face detection cascade
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
