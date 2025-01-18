@@ -23,3 +23,6 @@ classify them into one of the following categories:
 • Training Set: 28,709 images   
 • Test Set: 3,589 images   
 
+![image](https://github.com/user-attachments/assets/d8fccb7c-f23f-406e-bfd9-6a28913a1773)
+![image](https://github.com/user-attachments/assets/3385dda7-d992-4b15-a3be-b88a362fdd65)
+![image](https://github.com/user-attachments/assets/b7f3ab0a-674c-466c-b6e7-72dfb96e0469)
